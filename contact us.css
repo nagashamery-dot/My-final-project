@@ -1,0 +1,23 @@
+.cathy {
+    background-color: grey;
+}
+
+.mercy {
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.tk{
+    text-align: center;
+    list-style-type: none;
+    .tk{
+        list-style: none;
+    }
+}
+.tk{
+    list-style: none;
+}
+ol{
+    list-style: none;
+}

@@ -1,0 +1,23 @@
+.carol {
+    background-color: yellowgreen;
+}
+
+.mercy {
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+.jk{
+    text-align: center;
+}
+.nd{
+    text-align: center;
+    list-style: none;
+}
+.jk{
+    list-style: none;
+}
+ol{
+    list-style: none;
+}
